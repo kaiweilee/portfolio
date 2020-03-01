@@ -160,7 +160,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
 .nav-bar.third { width:15px; }
 
 #main-nav { position: relative; width: 170px; padding-bottom:30px; }
-#main-nav li a { text-decoration:none; color:#888; font-size:16px; display:block; padding:10px 0px 11px; font-weight:600; border-bottom:1px solid #d8d8d8; white-space:nowrap; text-align:left; background:url(../images/arrow-right.png) -15px center no-repeat; background-size:12px 8px;}
+#main-nav li a { text-decoration:none; color:#888; font-size:16px; display:block; padding:10px 0px 11px; font-weight:600; border-bottom:1px solid #d8d8d8; white-space:nowrap; text-align:left; background:url(../image/arrow-right.png) -15px center no-repeat; background-size:12px 8px;}
 #main-nav a span { display:inline-block; top:-5px; font-size:11px; position:relative; }
 #main-nav > ul .active > a, #main-nav > ul a.active, #main-nav li a:hover, #main-nav li a.selected { color:#2b2b2b; -webkit-transition: all 0.2s ease 0s; transition: all 0.2s ease 0s; }
 #main-nav > ul > li > .sub-nav { padding:14px 0px 14px 0; border-bottom:1px solid #d8d8d8; }
@@ -245,10 +245,10 @@ header { position: fixed; top: 0; left: 0; width: 260px; z-index:101; height:100
 #headline_cycler { display: table; position: absolute; text-align: center; top: 50%; height:200px; margin-top:-100px; width: 100%; z-index:111; }
 .headline_cycler_centralizer { display: table-cell; vertical-align: middle; }
 
-#arrow-down { position:absolute; bottom:0; left:50%; z-index:11; height:80px; width:64px; margin-left:-32px; background:url(../images/bg-arrow-down@2x.png) no-repeat 18px 23px #fff; background-size:28px 16px; text-indent:-9999px; display:block; }
+#arrow-down { position:absolute; bottom:0; left:50%; z-index:11; height:80px; width:64px; margin-left:-32px; background:url(../image/bg-arrow-down@2x.png) no-repeat 18px 23px #fff; background-size:28px 16px; text-indent:-9999px; display:block; }
 
-.arrow-left, .arrow-right { display:inline-block; float:left; width:45px; color:#2b2b2b; margin-top:12px; height:12px; background:url(../images/arrow-left.png) 7px center no-repeat; background-size:18px 12px; }
-.arrow-right { float:right; background:url(../images/arrow-right.png) 20px center no-repeat; background-size:18px 12px;}
+.arrow-left, .arrow-right { display:inline-block; float:left; width:45px; color:#2b2b2b; margin-top:12px; height:12px; background:url(../image/arrow-left.png) 7px center no-repeat; background-size:18px 12px; }
+.arrow-right { float:right; background:url(../image/arrow-right.png) 20px center no-repeat; background-size:18px 12px;}
 a:hover .arrow-left { background-position:left center; }
 a:hover .arrow-right { background-position:right center; }
 
