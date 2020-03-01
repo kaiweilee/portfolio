@@ -131,11 +131,11 @@ button::-moz-focus-inner {
   line-height: 44px;
   position: absolute;
   right: 0;
-  top: 0;
+  bottom: 0;
   text-decoration: none;
   text-align: center;
   opacity: 1;
-  filter: alpha(opacity=50);
+  filter: alpha(opacity=100);
   padding: 0 0 18px 10px;
   color: #FFF;
   font-style: normal;
