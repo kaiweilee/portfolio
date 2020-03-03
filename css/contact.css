@@ -44,7 +44,7 @@ textarea {
 .form-elements { 
  padding: 0; margin-top:0px;
 }
-.form-elements > textarea, .form-elements > select, .form-elements > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
+.form-elements > pure-group > textarea, .form-elements > pure-group > select, .form-elements > pure-group> input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
  padding: 17px 18px 18px 18px; 
  width: 100%; 
  margin-bottom: 10px; 
@@ -54,14 +54,14 @@ textarea {
  line-height: 20px; 
  background:#f5f5f5;
 }
-.grey .form-elements > textarea, .grey .form-elements > select, .grey .form-elements > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
+.grey .form-elements > pure-group > textarea, .grey .form-elements > pure-group > select, .grey .form-elements > pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
  border:1px solid #fff;
 }
-.form-elements > input:focus, .form-part > textarea:focus { }
-.form-elements > textarea { 
+.form-elements > pure-group > input:focus, .form-elements > textarea:focus { }
+.form-elements > pure-group > textarea { 
  height: 174px; resize: none;
 }
-.form-elements > .input-wrapper { 
+.form-elements > pure-group > .input-wrapper { 
  position: relative;
 }
 .send-btn { 
