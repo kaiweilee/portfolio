@@ -30,5 +30,5 @@ textarea { resize: none; }
 #reservation-section .send-btn { margin-top:0 !important; }
 .comment-form-wrapper .send-btn { float:right }
 
-.gform pure-form pure-form-stacked > honeypot-field { display: none; }
-.gform pure-form pure-form-stacked > thankyou_message {font: 24px 'Lato', Arial, Helvetica, sans-serif; color:#777;}
+.honeypot-field { display: none; }
+.thankyou_message {font: 24px 'Lato', Arial, Helvetica, sans-serif; color:#777;}
