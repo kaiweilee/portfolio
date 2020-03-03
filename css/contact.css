@@ -61,7 +61,7 @@ textarea {
 .pure-group > textarea { 
  height: 174px; 
  padding: 4px 4px 4px 4px;
- text-aling:left;
+ text-aling: left;
  resize: none; 
 }
 .pure-group > .input-wrapper { 
