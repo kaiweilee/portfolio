@@ -41,10 +41,10 @@ textarea {
 .contact > .elem-content {
  background:#fff !important
 }
-.form-elements { 
+.pure-group { 
  padding: 0; margin-top:0px;
 }
-.form-elements > pure-group > textarea, .form-elements > pure-group > select, .form-elements > pure-group> input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
+.pure-group > textarea, .pure-group > select, .pure-group> input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
  padding: 17px 18px 18px 18px; 
  width: 100%; 
  margin-bottom: 10px; 
@@ -54,14 +54,14 @@ textarea {
  line-height: 20px; 
  background:#f5f5f5;
 }
-.grey .form-elements > pure-group > textarea, .grey .form-elements > pure-group > select, .grey .form-elements > pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
+.grey .pure-group > textarea, .grey .pure-group > select, .grey .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
  border:1px solid #fff;
 }
-.form-elements > pure-group > input:focus, .form-elements > textarea:focus { }
-.form-elements > pure-group > textarea { 
+.pure-group > input:focus, .form-elements > textarea:focus { }
+.pure-group > textarea { 
  height: 174px; resize: none;
 }
-.form-elements > pure-group > .input-wrapper { 
+.pure-group > .input-wrapper { 
  position: relative;
 }
 .send-btn { 
