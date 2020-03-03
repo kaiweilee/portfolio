@@ -57,12 +57,12 @@ textarea {
 .grey .pure-group > textarea, .grey .pure-group > select, .grey .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
  border:1px solid #fff;
 }
-.pure-group > input:focus, .pure-group > textarea:focus,
+.pure-group > input:focus, .pure-group > textarea:focus {}
 .pure-group > textarea { 
  height: 174px; 
- padding: 10px;
- resize: none;
- text-align: left; 
+ padding; 10px 10px;
+ text-aling:left;
+ resize: none; 
 }
 .pure-group > .input-wrapper { 
  position: relative;
