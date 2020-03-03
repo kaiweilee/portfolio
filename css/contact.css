@@ -45,19 +45,19 @@ textarea {
  padding: 0; margin-top:0px;
 }
 .pure-group > textarea, .pure-group > select, .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
- padding: 17px 18px 18px 18px; 
+ padding: 13px 14px 14px 14px; 
  width: 100%; 
  margin-bottom: 10px; 
  border:1px solid #d8d8d8; 
  text-align: center; 
  font-style: normal; 
- line-height: 18px; 
+ line-height: 20px; 
  background:#f5f5f5;
 }
 .grey .pure-group > textarea, .grey .pure-group > select, .grey .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
  border:1px solid #fff;
 }
-.pure-group > input:focus, .pure-group > textarea:focus { }
+.pure-group > input:focus, .pure-group > textarea:focus,
 .pure-group > textarea { 
  height: 174px; 
  resize: none;
