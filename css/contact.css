@@ -25,6 +25,9 @@ textarea { resize: none; }
 #reservation-section .send-btn { margin-top:0 !important; }
 .comment-form-wrapper .send-btn { float:right }
 
+.name-field { display: none; }
+.email-field { display: none; }
+.message-field { display: none; }
 .honeypot-field { display: none; }
 
 
