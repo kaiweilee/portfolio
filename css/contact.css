@@ -45,9 +45,9 @@ textarea {
  padding: 0; margin-top:0px;
 }
 .pure-group > textarea, .pure-group > select, .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
- padding: 17px 18px 18px 18px; 
+ padding: 14px 15px 15px 15px; 
  width: 100%; 
- margin-bottom: 10px; 
+ margin-bottom: 5px; 
  border:1px solid #d8d8d8; 
  text-align: center; 
  font-style: normal; 
@@ -60,7 +60,7 @@ textarea {
 .pure-group > input:focus, .pure-group > textarea:focus {}
 .pure-group > textarea { 
  height: 174px; 
- padding; 10px 10px;
+ padding: 4px 4px 4px 4px;
  text-aling:left;
  resize: none; 
 }
