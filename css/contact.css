@@ -44,7 +44,7 @@ textarea {
 .pure-group { 
  padding: 0; margin-top:0px;
 }
-.pure-group > textarea, .pure-group > select, .pure-group> input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
+.pure-group > textarea, .pure-group > select, .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
  padding: 17px 18px 18px 18px; 
  width: 100%; 
  margin-bottom: 10px; 
@@ -57,7 +57,7 @@ textarea {
 .grey .pure-group > textarea, .grey .pure-group > select, .grey .pure-group > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { 
  border:1px solid #fff;
 }
-.pure-group > input:focus, .form-elements > textarea:focus { }
+.pure-group > input:focus, .pure-group > textarea:focus { }
 .pure-group > textarea { 
  height: 174px; resize: none;
 }
