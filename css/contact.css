@@ -17,18 +17,18 @@ textarea { resize: none; }
 /* Form Element Styling */
 .contact > .elem-content {background:#fff !important }
 
-.gform { padding: 0; margin-top:0px;  }
+.gform pure-form pure-form-stacked { padding: 0; margin-top:0px;  }
 
-.gform > textarea, .gform > select, .gform > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
+.gform pure-form pure-form-stacked > textarea, .gform pure-form pure-form-stacked > select, .gform pure-form pure-form-stacked > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) {
  padding: 17px 18px 18px 18px; width: 100%; margin-bottom: 10px; border:1px solid #d8d8d8; text-align: center; font-style: normal; line-height: 20px; background:#f5f5f5;
 }
-.grey .gform > textarea, .grey .gform > select, .grey .gform > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { border:1px solid #fff; }
-.gform > input:focus, .gform > textarea:focus { }
-.gform > textarea { height: 174px; resize: none; }
-.gform > .input-wrapper { position: relative;  }
+.grey .gform pure-form pure-form-stacked > textarea, .grey .gform pure-form pure-form-stacked > select, .grey .gform pure-form pure-form-stacked > input:not([type="submit"]):not([type="image"]):not([type="button"]):not([type="checkbox"]):not([type="radio"]) { border:1px solid #fff; }
+.gform pure-form pure-form-stacked > input:focus, .gform pure-form pure-form-stacked > textarea:focus { }
+.gform pure-form pure-form-stacked > textarea { height: 174px; resize: none; }
+.gform pure-form pure-form-stacked > .input-wrapper { position: relative;  }
 .send-btn { margin-top: 25px !important; }
 #reservation-section .send-btn { margin-top:0 !important; }
 .comment-form-wrapper .send-btn { float:right }
 
-.honeypot-field { display: none; }
-.gform > thankyou_message {font: 24px 'Lato', Arial, Helvetica, sans-serif; color:#777;}
+.gform pure-form pure-form-stacked > honeypot-field { display: none; }
+.gform pure-form pure-form-stacked > thankyou_message {font: 24px 'Lato', Arial, Helvetica, sans-serif; color:#777;}
