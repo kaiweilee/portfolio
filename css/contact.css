@@ -18,3 +18,5 @@ textarea { resize: none; }
 .send-btn { margin-top: 25px !important; }
 #reservation-section .send-btn { margin-top:0 !important; }
 .comment-form-wrapper .send-btn { float:right }
+
+.honeypot-field { display: none; }
