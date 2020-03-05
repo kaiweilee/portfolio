@@ -199,9 +199,10 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.bio-list {border-left: 3px solid black; height: 70px; position: absolute; top:300px; left:50px; margin-left: -3px;}
-.bio-list > li > i {font-size:14px; padding:10px 0px 10px 0px;} 
-.bio-list > i { color:#000000; font-size:16px; padding:3px 0px 3px; font-weight:600; padding:padding:10px 0px 100px 0px;}
+.bio-list > h1 {border-top: 3px solid black; margin-left: 10px; margin-top: -50px;}
+.bio-list {border-left: 3px solid black; height: 80px; position: absolute; top:20px; left:20px; margin-left: -3px;}
+.bio-list > li > i {font-size:14px; padding:10px 0px 5px 0px;} 
+.bio-list > i { color:#000000; font-size:16px; padding:3px 0px 3px; font-weight:600; padding:padding:0px 0px 100px 0px;}
 
 #social-header { background:#fff; position:absolute; z-index:200; right:0; top:0; padding:15px 12px 0; /*width:50px; text-align:center*/ height:50px; }
 /* End Main Nav
