@@ -199,7 +199,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.bio-list {border-left: 3px solid black; position: absolute; height: 80px; top:5px; left:5px; margin-left: -3px;}
+.bio-list {border-left: 3px solid black; position: absolute; top:1px; left:1px; height: 80px;}
 .bio-list > li > i {font-size:14px; padding:0px 0px 5px 0px;} 
 .bio-list > i { color:#000000; font-size:16px; padding:3px 0px 3px; font-weight:600; padding:padding:0px 0px 10px 0px;}
 
