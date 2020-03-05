@@ -199,8 +199,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.profile {aling: center;}
-
+.profile {
+  border-radius: 50%;
+  width: 100px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
 .b1 {
   border-left: 3px solid black; 
   position: relative; 
