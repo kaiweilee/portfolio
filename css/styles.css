@@ -205,7 +205,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   top: 30px; 
   height: 70px;
   font size: 14px;
-  text-align: right;
+  text-align: left;
  }
 .b2, b3 { 
   color:#000000; 
