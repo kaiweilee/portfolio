@@ -199,7 +199,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.contact-list > i {background:url(../image/arrow-right.png) -15px center no-repeat;}
+.contact-list > i { text-decoration:none; color:#888; font-size:16px; display:block; padding:10px 0px 11px; font-weight:600; border-bottom:1px solid #d8d8d8; white-space:nowrap; text-align:left; background:url(../image/arrow-right.png) -15px center no-repeat; background-size:12px 8px;}
 
 #social-header { background:#fff; position:absolute; z-index:200; right:0; top:0; padding:15px 12px 0; /*width:50px; text-align:center*/ height:50px; }
 /* End Main Nav
