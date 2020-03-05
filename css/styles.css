@@ -199,28 +199,26 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.profile {
+.profile > img {
   border-radius: 50%;
   width: 100px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
   position: relative;
 }
 .bio-list .b1 {
-  position: relative; 
-  top: 10px;
   font-size: 14px;
   color: #888;
   font-weight: 400;
+  position: relative;
   left: -45px;
  }
-.bio-list .b2, b3 { 
+.bio-list .b2 { 
   color: #000000; 
   font-size: 16px; 
   font-weight: 600;
  } 
 .bio-list .b4 {
   font-size: 14px;
-  position: relative;
   color: #888;
   font-weight: 400;
  }
