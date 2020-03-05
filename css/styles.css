@@ -207,24 +207,20 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   position: relative;
 }
 .b1 {
-  border-left: 3px solid black; 
   position: relative; 
   top: 30px; 
   left: 30px;
-  height: 80px;
-  font size: 14px;
-  text-align: left;
+  font size: 12px;
  }
 .b2, b3 { 
   color: #000000; 
   font-size: 16px; 
   font-weight: 600;
-  text-align: left;
  }
 .b4 {
-  font size: 14px;
+  font size: 12px;
   position: relative;
-  left: 0px;
+  left: -5px;
   color: #888;
   font-weight: 400;
  }
