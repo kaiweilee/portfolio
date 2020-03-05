@@ -199,7 +199,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.contact-list {positionposition:absolute; top:1000px; left:0px;}
+.contact-list {position:absolute; top:1000px; left:0px;}
 .contact-list > li > i {padding:10px 0px 10px 0px;} 
 .contact-list > i { text-decoration:none; color:#000000; font-size:16px; padding:3px 0px 3px; font-weight:600;}
 
