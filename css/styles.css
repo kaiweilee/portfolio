@@ -204,13 +204,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   width: 100px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
   position: relative;
-  left: 30px;
 }
 .b1 {
   position: relative; 
   top: 30px; 
-  left: 30px;
-  font-size: 12px;
+  left: 100px;
+  font-size: 14px;
  }
 .b2, b3 { 
   color: #000000; 
@@ -218,9 +217,9 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   font-weight: 600;
  }
 .b4 {
-  font-size: 12px;
+  font-size: 14px;
   position: relative;
-  left: -5px;
+  left: -1px;
   color: #888;
   font-weight: 400;
  }
