@@ -204,6 +204,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   width: 100px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
   position: relative;
+  left: 30px;
 }
 .bio-list .b1 {
   font-size: 14px;
