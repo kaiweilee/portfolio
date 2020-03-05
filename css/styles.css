@@ -199,27 +199,25 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.bio-list {
+.b1 {
   border-left: 3px solid black; 
   position: relative; 
   top:30px; 
   height: 70px;
+  font size: 14px;
   }
-.line-2 {
+.b2, b3 { 
+  color:#000000; 
+  font-size:16px; 
+  font-weight:600;
+ }
+.line-2 {  
   border-left: 3px solid black; 
   position: relative; 
   top:30px; 
   height: 70px;
   margin-left: 225px;
   margin-top: -85px;
-  }
-.bio-list > li > i {
-  font-size:14px; 
-  } 
-.bio-list > a { 
-  color:#000000; 
-  font-size:16px; 
-  font-weight:600;
   }
 
 #social-header { background:#fff; position:absolute; z-index:200; right:0; top:0; padding:15px 12px 0; /*width:50px; text-align:center*/ height:50px; }
