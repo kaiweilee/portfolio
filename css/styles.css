@@ -204,8 +204,8 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
-  width: 100px;
-  border:1px #d6d6d6 solid;
+  width: 120px;
+  border:0.8px #adacac solid;
   /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2); */
   position: relative;
 }
