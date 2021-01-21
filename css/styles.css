@@ -199,7 +199,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-.profile > img {
+.profile .a .img {
   display: block;
   margin-left: auto;
   margin-right: auto;
