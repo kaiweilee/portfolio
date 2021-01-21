@@ -207,26 +207,6 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   width: 120px;
   position: relative; 
 }
-.profile-overlay {
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.profile:hover .profile-link .profile-overlay {
-  opacity: 1;
-}
-.profile-overlay-text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
 .bio-list {
  text-align: center;
  position:relative;
