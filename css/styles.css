@@ -208,19 +208,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   position: relative; 
 }
 .profile-overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
   opacity: 0;
   transition: .5s ease;
   background-color: #008CBA;
 }
 
-.profile:hover .a .profile-overlay {
+.profile:hover .profile-link .profile-overlay {
   opacity: 1;
 }
 .profile-overlay-text {
