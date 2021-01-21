@@ -199,7 +199,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
  display: none;
 }
 
-#profile-pic {
+.profile {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -209,7 +209,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
    background-image: url( 
 "https://github.com/kaiweilee/portfolio/blob/master/image/keaton.jpg" ); 
 }
-#profile-pic:hover {
+.profile:hover {
   background-image: url( 
 "https://github.com/kaiweilee/portfolio/blob/master/image/vimeo.png" ); 
 }
