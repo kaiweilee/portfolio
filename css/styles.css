@@ -207,11 +207,11 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   width: 120px;
   position: relative;
    background-image: url( 
-"image/keaton.jpg" ); 
+"../image/keaton.jpg" ); 
 }
 #profile-pic:hover {
   background-image: url( 
-"image/vimeo.png" ); 
+"../image/vimeo.png" ); 
 }
 
 .bio-list {
