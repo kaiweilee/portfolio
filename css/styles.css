@@ -209,6 +209,11 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2); */
   position: relative;
 }
+#profile-pic:hover {
+  background-image: url( 
+"image/vimeo.png" ); 
+}
+
 .bio-list {
  text-align: center;
  position:relative;
