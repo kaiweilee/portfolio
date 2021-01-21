@@ -220,7 +220,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
   background-color: #008CBA;
 }
 
-.profile:hover .profile-overlay {
+.profile:hover .a .profile-overlay {
   opacity: 1;
 }
 .profile-overlay-text {
