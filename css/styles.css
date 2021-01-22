@@ -231,9 +231,9 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {color:#2b2b2b }
 #vimeo-link {
  position:relative;
  display: block;
- margin-left: 20px;
- margin-right: 20px;
- margin-top: 40px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 45px;
  text-align: center;
 }
 #social-header { background:#fff; position:absolute; z-index:200; right:0; top:0; padding:15px 12px 0; /*width:50px; text-align:center*/ height:50px; }
